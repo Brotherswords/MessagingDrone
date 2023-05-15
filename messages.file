@@ -1,0 +1,2 @@
+line:3 version:8 destination:100 cmd:send date:12-1-1 msg:"Example of regular message - will print once gets to destination" fromPort:55002 toPort:55015 location:1
+line:3 version:8 destination:100 cmd:send date:12-1-1 msg:"Example of move message - moves drone to new location" fromPort:55002 toPort:55007 location:1 move:7
